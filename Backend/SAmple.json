@@ -1,0 +1,47 @@
+[
+    {
+      "title": "Modern Leather Sofa",
+      "supplier": "Furniture Emporium",
+      "imageUrl": "https://images.pexels.com/photos/1248583/pexels-photo-1248583.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "A sleek and modern leather sofa with comfortable seating.",
+      "price": "699.99"
+    },
+    {
+      "title": "Wooden Dining Table Set",
+      "supplier": "Home Furnishings Co.",
+      "imageUrl": "https://images.pexels.com/photos/271696/pexels-photo-271696.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Elegant wooden dining table set with four chairs.",
+      "price": "499.99"
+    },
+    {
+      "title": "Vintage Bed Frame",
+      "supplier": "Antique Furniture Gallery",
+      "imageUrl": "https://images.pexels.com/photos/2489114/pexels-photo-2489114.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Classic vintage-style bed frame with intricate detailing.",
+      "price": "799.99"
+    },
+    {
+      "title": "Contemporary Coffee Table",
+      "supplier": "Modern Living Designs",
+      "imageUrl": "https://images.pexels.com/photos/890669/pexels-photo-890669.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Minimalist coffee table with a contemporary design.",
+      "price": "249.99"
+    },
+    {
+      "title": "Velvet Upholstered Armchair",
+      "supplier": "Luxury Living Furnishings",
+      "imageUrl": "https://images.pexels.com/photos/910625/pexels-photo-910625.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Plush velvet upholstered armchair for added comfort and style.",
+      "price": "349.99"
+    },
+    
+
+    {
+      "title": "Antique Brass Chandelier",
+      "supplier": "Vintage Lighting Co.",
+      "imageUrl": "https://images.pexels.com/photos/937526/pexels-photo-937526.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Elegant antique brass chandelier to illuminate your space.",
+      "price": "449.99"
+    }
+  ]
+  
